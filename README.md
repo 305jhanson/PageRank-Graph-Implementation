@@ -1,14 +1,19 @@
 # PageRank-Graph-Implementation
 
+
 Adjacency list graph implementation
 PageRank algoritm giving importance score to each page
 
+
 Input format
+
 (number of pages) (iterations of pagerank algorithm)
 (page from)  (page to)
 
 
 Sample Input
+
+
 11 1
 google.com gmail.com
 google.com maps.com
