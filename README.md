@@ -1,13 +1,14 @@
 # PageRank-Graph-Implementation
 
 
-Adjacency list graph implementation
+Adjacency list graph implementation and
 PageRank algoritm giving importance score to each page
 
 
 Input format
 
 (number of pages) (iterations of pagerank algorithm)
+
 (page from)  (page to)
 
 
