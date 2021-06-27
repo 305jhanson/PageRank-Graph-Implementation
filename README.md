@@ -1,4 +1,4 @@
-# PageRank-Graph-Implementation
+# Page Rank Algorithm (Original Google Algorithm)
 
 
 Adjacency list graph implementation and
